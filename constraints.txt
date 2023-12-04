@@ -463,7 +463,6 @@ pycountry==22.3.5
 pycparser==2.21
 pycryptodome==3.19.0
 pycryptodomex==3.19.0
-pydantic==2.4.2
 pydantic_core==2.10.1
 pydata-google-auth==1.8.2
 pydot==1.4.2
