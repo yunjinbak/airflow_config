@@ -296,7 +296,7 @@ google-ads==22.0.0
 google-api-core==2.12.0
 google-api-python-client==2.102.0
 google-auth-httplib2==0.1.1
-google-auth-oauthlib==1.1.0
+google-auth-oauthlib==1.0.0
 google-auth==2.23.2
 google-cloud-aiplatform==1.34.0
 google-cloud-appengine-logging==1.3.2
@@ -432,7 +432,7 @@ nbformat==5.9.2
 neo4j==5.13.0
 nh3==0.2.14
 nodeenv==1.8.0
-numpy==1.24.4
+numpy==1.23.5
 oauthlib==3.2.2
 objsize==0.6.1
 openapi-schema-validator==0.6.2
@@ -660,7 +660,7 @@ virtualenv==20.24.5
 watchtower==2.0.1
 wcwidth==0.2.8
 websocket-client==1.6.4
-wrapt==1.15.0
+wrapt==1.14.1
 xmltodict==0.13.0
 yamllint==1.32.0
 yarl==1.9.2
