@@ -220,8 +220,8 @@ billiard==4.1.0
 bitarray==2.8.2
 black==23.9.1
 blinker==1.6.3
-boto3==1.28.17
-botocore==1.31.17
+boto3==1.33.3
+botocore==1.33.3
 cachelib==0.9.0
 cachetools==5.3.1
 cassandra-driver==3.28.0
@@ -296,7 +296,7 @@ google-ads==22.0.0
 google-api-core==2.12.0
 google-api-python-client==2.102.0
 google-auth-httplib2==0.1.1
-google-auth-oauthlib==1.0.0
+google-auth-oauthlib==1.1.0
 google-auth==2.23.2
 google-cloud-aiplatform==1.34.0
 google-cloud-appengine-logging==1.3.2
@@ -432,7 +432,7 @@ nbformat==5.9.2
 neo4j==5.13.0
 nh3==0.2.14
 nodeenv==1.8.0
-numpy==1.23.5
+numpy==1.24.4
 oauthlib==3.2.2
 objsize==0.6.1
 openapi-schema-validator==0.6.2
@@ -485,7 +485,7 @@ prison==0.2.1
 prometheus-client==0.17.1
 prompt-toolkit==3.0.39
 proto-plus==1.22.3
-protobuf==3.20.*
+protobuf==4.21.12
 psutil==5.9.5
 psycopg2-binary==2.9.9
 ptyprocess==0.7.0
@@ -500,7 +500,7 @@ pycountry==22.3.5
 pycparser==2.21
 pycryptodome==3.19.0
 pycryptodomex==3.19.0
-pydantic==2.4.2
+pydantic==1.10.0
 pydantic_core==2.10.1
 pydata-google-auth==1.8.2
 pydot==1.4.2
@@ -563,7 +563,7 @@ rich==13.6.0
 rpds-py==0.10.4
 rsa==4.9
 ruff==0.0.292
-s3transfer==0.6.2
+s3transfer==0.8.0
 scramp==1.4.4
 scrapbook==0.5.0
 semver==3.0.1
@@ -660,7 +660,7 @@ virtualenv==20.24.5
 watchtower==2.0.1
 wcwidth==0.2.8
 websocket-client==1.6.4
-wrapt==1.14.1
+wrapt==1.15.0
 xmltodict==0.13.0
 yamllint==1.32.0
 yarl==1.9.2
